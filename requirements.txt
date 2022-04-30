@@ -1,0 +1,4 @@
+nextcord
+wavelink
+discord
+datetime
